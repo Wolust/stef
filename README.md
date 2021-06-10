@@ -28,3 +28,4 @@ Veraltet:
 Beispiel für grafisch_tabelle.php PHP4 +MYSQL
 http://bis18092014.untergang.de/index0a73.html
 
+lolo98
